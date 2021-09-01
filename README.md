@@ -1,4 +1,19 @@
-This is a fully functional Contact Manager Application based on React.
+
+
+•Developed a user facing extendable Contact Manager app to manage contacts using React and NodeJs.
+
+
+•Built a highly available and stable full CRUD app that can add, delete and edit contact details of a person.
+
+
+•Called a fault-tolerant JSONPlaceholder fake rest API to fetch complex data from its database using axios.
+
+
+•Developed the well-tested and easily maintainable frontend for user interaction using the React library.
+
+
+•Designed data focused tabs like add contact,edit contact etc and passed query parameters using React Router.
+
 
 Steps to run:
 
